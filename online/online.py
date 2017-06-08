@@ -1,5 +1,5 @@
-from online.online_request import OnlineRequest
-from online.user import UserRequest
+from online_request.online_request import OnlineRequest
+from online_request.user_request import UserRequest
 
 
 class Online:
